@@ -1,0 +1,179 @@
+body {
+    background-image: linear-gradient(-45deg, #b6d336, #5cd36c, #6566d1);
+}
+
+.text1 {
+    text-align: center;
+    font-size: 500%;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+
+.photo {
+    width: 50px;
+    height: 50px;
+    border: 4px solid #EC79C6;
+    border-radius: 4px;
+    box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.5);
+    margin: 0 auto;
+}
+
+.text2 {
+    text-align: center;
+    font-size: 150%;
+    font-weight: bold;
+    color:#FFFAFA;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.adobe {
+    width: 680px;
+    height: 360px;
+    border-color: white;
+    border: 4px solid white;
+    border-radius: 5px;
+    box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.5)
+}
+
+.text {
+    text-align: left;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.rectangle {
+    width: 200px;    height: 100px;
+    background: rgb(18,110,245);}
+.text3 {
+    text-align: center;    font-size: 150%;
+    font-weight: bold;    color:#EC79C6;
+    font-family: 'Courier New', Courier, monospace;    margin-left: auto;
+    margin-right: auto;    display: block;
+}
+.text4 {    text-align: center;
+    font-size: 250%;
+    font-weight: bold;
+    color: rgb(18,110,245);
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.tennis {
+    text-align: center;
+    margin-left: 0px;
+    margin-top: 100px;
+    border: 4px solid #EC79C6;
+    border-radius: 4px;
+    box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.5)
+}
+
+.tanec {
+    text-align: center;
+    text-align: left;
+    margin-left: 0px;
+    margin-top: 100px;
+    border: 4px solid #EC79C6;
+    width: 600px;
+    height: 400px;
+    border-radius: 4px;
+    box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.5)
+}
+
+.text5 {
+    text-align: center;
+    font-size: 100%;
+    color: #EC79C6;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    margin-top: 50px;
+}
+
+.centry {
+    text-align: center;
+}
+
+.tanec:hover {
+    border: 4px solid transparent;
+    transition: all 0.1s linear;
+    border-radius: 24px;
+}
+
+.tanec:hover {
+    border: 4px solid white;   
+}
+
+.risovanie:hover {
+    border: 4px solid transparent;
+    transition: all 0.1s linear;
+    border-radius: 24px;
+}
+
+.risovanie:hover {
+    border: 4px solid white;
+}
+
+hr {
+    margin: 20px 0;    padding: 0;
+    height: 2px;    border: none;
+    background: linear-gradient(to right, transparent 50%, #fff 50%),                 linear-gradient(to right, blue, red);
+    background-size: 16px 2px, 100% 2px;}
+.footer {
+    box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.5);    bottom: 0;
+    left: 0;    width: 100%;
+    height: 300px;    background-color: #D0DAEE;
+    border-radius: 10px;    display: flex;
+    flex-flow: row nowrap;    align-items: center;
+    align-content: center;    justify-content: space-between
+}
+.footer-text-left {    font-size:25px;
+    padding-left:40px;    float:left;
+    word-spacing:20px;}
+  
+a.menu:hover {    background-color:yellow;
+    font-size:20px;}
+.text6 {
+    text-align: center;    font-size: 150%;
+    font-weight: bold;    color:black;
+    font-family: 'Courier New', Courier, monospace;    margin-left: auto;
+    margin-right: auto;    display: block;
+}
+.box1 {    background-color: white;
+    width: 900px;    text-align: right;
+    border: 2px solid #D0DAEE;    margin: 0 auto;
+    border-radius: 4px;    box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.5)
+}.box1:hover {
+    border: 1px solid transparent;    transition: all 0.1s linear;
+    border-radius: 24px;}
+
+.box1:hover {
+    border: 2px solid white;
+}
+
+.box2 {
+    background-color: white;
+    width: 900px;
+    text-align: right;
+    border: 2px solid #D0DAEE;
+    margin: 0 auto;
+    border-radius: 4px;
+    box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.5)
+} 
+
+.text {
+    color:#EC79C6;
+}
+
+.box3 {
+    background-color: white;
+    width: 900px;
+    text-align: right;
+    border: 2px solid #D0DAEE;
+    margin: 0 auto;
+    border-radius: 4px;
+    box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.5)
+}
+
+.box2:hover {
+    border: 1px solid transparent;
+    transition: all 0.1s linear;
+}
